@@ -1,7 +1,7 @@
 extends Node3D
 
 func printtest():
-	print('hi')
+	print('kaboom')
 
 func _ready():
 	$CSGCylinder3D/AnimationPlayer.play("Rotate")
